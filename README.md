@@ -18,7 +18,8 @@ Resistors if BJTs are used to limit the base current
 Also started working on the schematic.
 
 Pictures demonstrating how an H Bridge works:
-<img width="813" height="440" alt="Snímek obrazovky 2026-05-27 202232" src="https://github.com/user-attachments/assets/93985722-dfcf-44d8-a6d9-47d76df81f41" />
+<img width="328" height="445" alt="Snímek obrazovky 2026-05-27 202117" src="https://github.com/user-attachments/assets/3489edae-45b8-481b-b038-e0949a592847" />
+
 
 # Schematics:
 <img width="1433" height="523" alt="Snímek obrazovky 2026-06-02 160827" src="https://github.com/user-attachments/assets/68e90319-6e54-4df3-9571-afe719184924" />
