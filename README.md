@@ -1,6 +1,6 @@
 # H BRIDGE
 Macondo link: https://macondo.hackclub.com/projects/6541
-# Quick explanation followed by schematics, pcb layout:
+# Quick explanation followed by BOM, schematics and pcb layout :
 What is an H Bridge?
 
 H Bridge is a type of circuit that can be used to control speed and rotation of a DC motor, the speed is controlled with PWM (Pulse With Modulation), therefore it can be connected to a microcontroller like Arduino or ESP, if not the direction can be controlled for example by a button. (Essentially, you use the H-bridge to choose the direction (forward/reverse) and the PWM signal to set the speed).
@@ -19,6 +19,9 @@ Also started working on the schematic.
 
 Pictures demonstrating how an H Bridge works:
 <img width="328" height="445" alt="Snímek obrazovky 2026-05-27 202117" src="https://github.com/user-attachments/assets/3489edae-45b8-481b-b038-e0949a592847" />
+
+# BOM:
+<img width="1639" height="770" alt="image" src="https://github.com/user-attachments/assets/f291a035-4ea5-45ee-a5b0-c91d047f2c35" />
 
 
 # Schematics:
