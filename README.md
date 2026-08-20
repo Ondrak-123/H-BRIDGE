@@ -20,15 +20,21 @@ Also started working on the schematic.
 
 - Pictures demonstrating how an H Bridge works:
 <img width="328" height="445" alt="Snímek obrazovky 2026-05-27 202117" src="https://github.com/user-attachments/assets/3489edae-45b8-481b-b038-e0949a592847" />
-(This is the most easiest way to think of an H bridge we have four switches, by switching on diagonal pair we can change the direction of the motor, and by switching these "switches" ON and OFF we can control the speed (PWM), later the "switche" are replaced by mosfets that are controlled by BJTs. 
+
+- (This is the most easiest way to think of an H bridge, we have four switches, by switching on diagonal pair we can change the direction of the motor, and by switching these "switches" ON and OFF we can control the speed (PWM), later the "switches" are replaced by mosfets that are controlled by BJTs.
+
 # BOM: 
+- There is two BOMs included, one for EU for a better price and one for the rest of the world.
 <img width="1639" height="770" alt="image" src="https://github.com/user-attachments/assets/f291a035-4ea5-45ee-a5b0-c91d047f2c35" />
 
 
 # Schematics:
+- Thanks to explanation both here on GitHub and day by day continual from Macondo, you are now able to create a schematic similar to mine:
 <img width="1433" height="523" alt="Snímek obrazovky 2026-06-02 160827" src="https://github.com/user-attachments/assets/68e90319-6e54-4df3-9571-afe719184924" />
 
 # Layout:
+- 2 Layer board, the whole board is SMD except the power and data pins, I have used 0805 and DPAK packages.
+- Here you can see both front and back layout and 3D rendering: 
 <img width="905" height="629" alt="Snímek obrazovky 2026-05-31 221016" src="https://github.com/user-attachments/assets/c68d325d-dc8e-4776-99d5-2eb28e460335" />
 <img width="980" height="666" alt="Snímek obrazovky 2026-05-31 221004" src="https://github.com/user-attachments/assets/ad89a019-e764-45d8-8865-fe9f0b871133" />
 <img width="982" height="668" alt="Snímek obrazovky 2026-05-31 220953" src="https://github.com/user-attachments/assets/59882410-0591-4b8c-9252-2a26bf71a77e" />
