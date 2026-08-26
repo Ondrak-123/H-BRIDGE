@@ -26,7 +26,8 @@ Also started working on the schematic.
 # BOM: 
 - There is two BOMs included, one for EU for a better price and one for the rest of the world.
 <img width="1639" height="770" alt="image" src="https://github.com/user-attachments/assets/f291a035-4ea5-45ee-a5b0-c91d047f2c35" />
-<img width="536" height="533" alt="image" src="https://github.com/user-attachments/assets/41458651-c78e-4d27-96ce-ec9edfafe615" />
+<img width="1622" height="548" alt="image" src="https://github.com/user-attachments/assets/db8ff191-cbbb-4a5f-a42c-01935c797832" />
+
 
 
 
