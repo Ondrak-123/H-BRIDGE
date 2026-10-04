@@ -1,17 +1,17 @@
-Part;Code;Ordering quantity (MOQ);Price (CZK);Note
-"I will use local seller based in the EU to avoid the new tariff (https://www.gme.cz/)";;;;
-"Breakdown from GME.CZ";;;;
-IRFR9024NTRPBF (same alternative);915-060;2;38;
-IRLR2905PBF (same alternative);915-014;2;66;
-100R 0805;901-212;4;20;
-100nF 50V;906-096;7;15.4;
-10K 0805;901-176;5;20;
-SS34;920-028;4;32.4;
-BC847;912-017;11;20.9;
-1K 0805;901-029;5;15;
-470uF 25V;908-032;3;27.26;1USD = 20.85CZK
-Local shipping;;;69;
-TOTAL IN CZK;;;323.96;15.54 USD
-PCB From JLCPCB;;;;8.44 USD
-TOTAL;;;;23.98 USD
-Amount for requesting;;;;26 USD (+ 69 CZK shipping)
+Part,Code,Ordering quantity (MOQ),Price (CZK),Note
+"I will use local seller based in the EU to avoid the new tariff (https://www.gme.cz/)",,,,
+"Breakdown from GME.CZ",,,,
+IRFR9024NTRPBF (same alternative),915-060,2,38,
+IRLR2905PBF (same alternative),915-014,2,66,
+100R 0805,901-212,4,20,
+100nF 50V,906-096,7,15.4,
+10K 0805,901-176,5,20,
+SS34,920-028,4,32.4,
+BC847,912-017,11,20.9,
+1K 0805,901-029,5,15,
+470uF 25V,908-032,3,27.26,1USD = 20.85CZK
+Local shipping,,,69,
+TOTAL IN CZK,,,323.96,15.54 USD
+PCB From JLCPCB,,,,8.44 USD
+TOTAL,,,,23.98 USD
+Amount for requesting,,,,26 USD (+ 69 CZK shipping)
