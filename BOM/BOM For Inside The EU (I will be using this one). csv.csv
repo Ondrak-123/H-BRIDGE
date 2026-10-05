@@ -1,17 +1,15 @@
-Part,Code,Ordering quantity (MOQ),Price (CZK),Note
-"I will use local seller based in the EU to avoid the new tariff (https://www.gme.cz/)",,,,
-"Breakdown from GME.CZ",,,,
-IRFR9024NTRPBF (same alternative),915-060,2,38,
-IRLR2905PBF (same alternative),915-014,2,66,
-100R 0805,901-212,4,20,
-100nF 50V,906-096,7,15.4,
-10K 0805,901-176,5,20,
-SS34,920-028,4,32.4,
-BC847,912-017,11,20.9,
-1K 0805,901-029,5,15,
-470uF 25V,908-032,3,27.26,1USD = 20.85CZK
-Local shipping,,,69,
-TOTAL IN CZK,,,323.96,15.54 USD
-PCB From JLCPCB,,,,8.44 USD
-TOTAL,,,,23.98 USD
-Amount for requesting,,,,26 USD (+ 69 CZK shipping)
+"Part / Description","Code","Quantity","Price (CZK)","Price (USD)","Link / Notes"
+"IRFR9024NTRPBF (same alternative)","915-060",2,38.00,,"https://www.gme.cz/v/1493242/infineon-irfr9024ntrpbf-unipolarni-tranzistor"
+"IRLR2905PBF (same alternative)","915-014",2,66.00,,"https://www.gme.cz/v/1494225/infineon-irlr2905pbf-unipolarni-tranzistor"
+"100R 0805","901-212",4,20.00,,"https://www.gme.cz/v/1490056/yageo-r0805-100r-012w-1-smd-rezistor"
+"100nF 50V","906-096",7,15.40,,"https://www.gme.cz/v/1496302/yageo-cks0805-100n-50v-x7r-10-keramicky-kondenzator-smd"
+"10K 0805","901-176",5,20.00,,"https://www.gme.cz/v/1483919/yageo-r0805-10k-012w-1-smd-rezistor"
+"SS34","920-028",4,32.40,,"https://www.gme.cz/v/1489348/semtech-ss34-smb-schottkyho-dioda"
+"BC847","912-017",11,20.90,,"https://www.gme.cz/v/1489504/semtech-bc847c-bipolarni-tranzistor"
+"1K 0805","901-029",5,15.00,,"https://www.gme.cz/v/1496399/yageo-r0805-1k-012w-5-smd-rezistor"
+"470uF 25V","908-032",3,27.26,,"https://www.gme.cz/v/1486213/hitano-ces-470u-25vit-hit-ezv-f-10x105-rm1145-elektrolyticky-kondenzator"
+"Local Shipping","-",1,69.00,,"Local GME Shipping"
+"SUBTOTAL (GME.cz)","-","-",323.96,15.54,"1 USD = 20.85 CZK"
+"PCB From JLCPCB","-",1,"-",8.44,"JLCPCB Order"
+"TOTAL","-","-","-",23.98,"Grand Total"
+"Amount Requested","-","-","-",26.00,"Requested Amount"
