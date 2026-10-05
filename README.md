@@ -1,6 +1,11 @@
 # H BRIDGE
+
+<img width="905" height="629" alt="Snímek obrazovky 2026-05-31 221016" src="https://github.com/user-attachments/assets/c68d325d-dc8e-4776-99d5-2eb28e460335" />
+<img width="980" height="666" alt="Snímek obrazovky 2026-05-31 221004" src="https://github.com/user-attachments/assets/ad89a019-e764-45d8-8865-fe9f0b871133" />
+
 Macondo link: https://macondo.hackclub.com/projects/6541
-- The whole step by step explanation and design day by day is on Macondo, I did not want to just copy the whole journals here, here I only included the most important explanations/features so it is nice and organized.  
+- The whole step by step explanation and design day by day is on Macondo, I did not want to just copy the whole journals here, here I only included the most important explanations/features so it is nice and organized.
+
 # Quick explanation followed by BOM, schematics and pcb layout :
 What is an H Bridge?
 
@@ -26,8 +31,23 @@ Also started working on the schematic.
 # BOM: 
 - There are two BOMs included, one for EU for a better price and one for the rest of the world.
 
-  <img width="812" height="685" alt="Snímek obrazovky 2026-10-04 123508" src="https://github.com/user-attachments/assets/7a6208fd-7ab6-49e1-b0b3-a47d2d25a2b0" />
-  <img width="972" height="812" alt="Snímek obrazovky 2026-10-04 123735" src="https://github.com/user-attachments/assets/5bb462d5-df4a-4374-9237-7677f54aeed4" />
+| Part / Description | Code | Quantity | Price (CZK) | Price (USD) | Link / Notes |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| IRFR9024NTRPBF (same alternative) | 915-060 | 2 | 38.00 | - | https://www.gme.cz/v/1493242/infineon-irfr9024ntrpbf-unipolarni-tranzistor |
+| IRLR2905PBF (same alternative) | 915-014 | 2 | 66.00 | - | https://www.gme.cz/v/1494225/infineon-irlr2905pbf-unipolarni-tranzistor |
+| 100R 0805 | 901-212 | 4 | 20.00 | - | https://www.gme.cz/v/1490056/yageo-r0805-100r-012w-1-smd-rezistor |
+| 100nF 50V | 906-096 | 7 | 15.40 | - | https://www.gme.cz/v/1496302/yageo-cks0805-100n-50v-x7r-10-keramicky-kondenzator-smd |
+| 10K 0805 | 901-176 | 5 | 20.00 | - | https://www.gme.cz/v/1483919/yageo-r0805-10k-012w-1-smd-rezistor |
+| SS34 | 920-028 | 4 | 32.40 | - | https://www.gme.cz/v/1489348/semtech-ss34-smb-schottkyho-dioda |
+| BC847 | 912-017 | 11 | 20.90 | - | https://www.gme.cz/v/1489504/semtech-bc847c-bipolarni-tranzistor |
+| 1K 0805 | 901-029 | 5 | 15.00 | - | https://www.gme.cz/v/1496399/yageo-r0805-1k-012w-5-smd-rezistor |
+| 470uF 25V | 908-032 | 3 | 27.26 | - | https://www.gme.cz/v/1486213/hitano-ces-470u-25vit-hit-ezv-f-10x105-rm1145-elektrolyticky-kondenzator |
+| Local Shipping | - | 1 | 69.00 | - | Local GME Shipping |
+| **SUBTOTAL (GME.cz)** | - | - | **323.96** | **$15.54** | Exchange Rate: 1 USD = 20.85 CZK |
+| **PCB From JLCPCB** | - | 1 | - | **$8.44** | JLCPCB Order |
+| **TOTAL** | - | - | - | **$23.98** | Grand Total |
+| **Amount Requested** | - | - | - | **$26.00** | Requested Amount |
+
   <img width="892" height="625" alt="image" src="https://github.com/user-attachments/assets/769b61ea-981f-4835-aac7-14f6099ce2ff" />
 <img width="650" height="552" alt="image" src="https://github.com/user-attachments/assets/ccbcc59a-4b09-4359-8da3-29582419ec73" />
 
