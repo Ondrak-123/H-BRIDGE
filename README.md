@@ -49,7 +49,7 @@ Also started working on the schematic.
 | **Amount Requested** | - | - | - | **$26.00** | Requested Amount |
 
   <img width="892" height="625" alt="image" src="https://github.com/user-attachments/assets/769b61ea-981f-4835-aac7-14f6099ce2ff" />
-<img width="650" height="552" alt="image" src="https://github.com/user-attachments/assets/ccbcc59a-4b09-4359-8da3-29582419ec73" />
+
 
   
 
